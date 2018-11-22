@@ -2,7 +2,7 @@
 
 **Article**
 
-Rodrigues, João, Chakaveh Saedi, Vladislav Maraev, João Silva and António Branco, 2017, ["Ways of Asking and Replying in Duplicate Question Detection"](), To appear in *Sem 2017 (ACL)
+Rodrigues, João, Chakaveh Saedi, Vladislav Maraev, João Silva and António Branco, 2017, ["Ways of Asking and Replying in Duplicate Question Detection"](http://www.aclweb.org/anthology/S17-1030), in *Sem 2017 (ACL)
 
 **Corpora**
 
